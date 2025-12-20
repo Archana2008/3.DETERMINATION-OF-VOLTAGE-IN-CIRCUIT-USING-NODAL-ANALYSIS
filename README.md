@@ -1,4 +1,4 @@
-# 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
+ # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
 
 **AIM:**
 
@@ -124,7 +124,8 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 
 
-<img width="435" height="292" alt="image" src="https://github.com/user-attachments/assets/cf178fab-c784-46f6-9469-b5476e0f2c68" />
+<img width="381" height="267" alt="image" src="https://github.com/user-attachments/assets/d79cffff-a94c-4690-8cae-42c1048b0e5b" />
+
 
 
 
